@@ -1,8 +1,0 @@
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
-C:\Source\GitHub\Steevcoco\SystemNetHttpBindingFailure\Source\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
