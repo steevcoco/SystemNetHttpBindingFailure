@@ -1,6 +1,9 @@
 # SystemNetHttpBindingFailure
 Exhibits a bind failure due to the included Visual Studio System.Net.Http library.
 
+#Update:
+Please note that the fix I have found is not as described below. You CAN see the simple failure, which DOES appear to be a bug: this is a simple solution with no alterations, and it does not run ... My fix was to leave the VS library inplace, but install Microsoft.Net.Http from NuGet --- and be sure not to include any Framework Net Extensions inthe project --- I installed the NuGet package in the Wpf project; and it is running normally.
+
 I believe this is a duplicate issue. I solved this by removing the Visual Studio lib/System.Net.Http.dll.
 
 I have an extremely simple GitHub solution that exhibits the problem. This is Visual Studio 2017 Enterprise latest version.
